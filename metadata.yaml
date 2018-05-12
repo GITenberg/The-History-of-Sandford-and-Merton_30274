@@ -1,0 +1,27 @@
+_repo: The-History-of-Sandford-and-Merton_30274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Thomas
+    alias: Marius
+    birthdate: 1748
+    deathdate: 1789
+    gutenberg_agent_id: '34479'
+    url: http://www.gutenberg.org/2009/agents/34479
+description: ''
+gutenberg_issued: '2009-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PZ'
+title: The History of Sandford and Merton
+url: http://www.gutenberg.org/ebooks/30274
